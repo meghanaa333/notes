@@ -1,0 +1,25 @@
+.navbar{
+    display:flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    flex-direction: row;
+    background-color: rgb(227, 174, 221);
+    justify-content: space-between;
+    overflow: hidden;
+    width: 100%;
+    color: black;
+    font-weight: 500;
+}
+.navbar-brand{
+    text-align: center;
+    padding: 14px 20px;
+}
+.navbar-links{
+    padding: 14px 20px;
+}
+.nav-link{
+    justify-content: space-between;
+    padding:15px;
+}
