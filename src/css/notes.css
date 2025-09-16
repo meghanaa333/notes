@@ -1,4 +1,5 @@
 /* Ensure content starts after navbar */
+@import "tailwindcss";
 .notes-container {
   margin-top: 70px; /* adjust to your navbar height */
   padding: 20px;
